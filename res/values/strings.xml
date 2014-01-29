@@ -40,6 +40,7 @@
 	<string name="day4">Tuesday</string>
 	<string name="day5">Wednesday</string>
 	<string name="day6">Thursday</string>
+	<string name="day7">Friday</string>
 	<string name="notifications">Notifications</string>
 	<string name="enable_notifications">Enable notifications</string>
 	<string name="enable_notifications_help">If checked, this will notify you of upcoming events you favorited</string>
